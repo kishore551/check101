@@ -170,7 +170,7 @@ cy.get('#nav-cart').click({ force: true })
 // // after interacting with slider:
 // cy.get('body').click(0, 0, { force: true })   // top-left corner of the page
 // // or click overlay:
-// cy.get('.a-popover-backdrop').click({ force: true })
+ //cy.get('.a-popover-backdrop').click({ force: true })
 
   })
 })

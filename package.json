@@ -1,0 +1,19 @@
+{
+  "name": "cypressclass",
+  "version": "1.0.0",
+  "description": "CYPRESSPRACTICE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishore",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.1",
+    "@cypress/grep": "^5.0.0",
+    "cypress": "^15.2.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
